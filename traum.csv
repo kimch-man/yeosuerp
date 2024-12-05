@@ -1,0 +1,12 @@
+id, name, qualification, rank, site, business, account, ceo
+1, 정관희,건축,특급,x,x,x,x
+2,장영진,건축,초급,o,x,x,x
+3,윤상흠,건축,초급,x,x,x,x
+4,김지수,건축,초급x,x,x,x
+5,최호섭,건축,중급,o,x,개인,x
+6,권현탁,건축,기사,o,x,x,x
+7,송호권,토목,초급,x,x,x,x
+8,유병일,토목,특급,o,x,x,x
+9,이동섭,토목,고급,o,x,x,x
+10,이태은,토목,특급,o,x,x,x
+11,이선녀,토목,기사,x,x,x,x

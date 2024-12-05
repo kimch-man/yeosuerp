@@ -1,0 +1,10 @@
+id, name, qualification, rank, site, business, account, ceo
+1, 김혜인, 건축,초급,x,개인,x,o
+2, 김순식, 토목,중급,o,x,x,x
+3, 한동기,토목,중급,o,x,o,x
+4,강준구,건축,기사,x,개인,x,x
+5,박영래,토목,초급,x,장비,o,x
+6,김상윤,토목,초급,o,장비,x,x
+7,이재성,토목,중급,x,x,o,x
+8,임진호,건축,초급,o,x,o,x
+9,임기완,토목,중급,o,x,o,x
