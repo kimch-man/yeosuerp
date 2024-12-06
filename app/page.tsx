@@ -4,10 +4,10 @@ import SignUpUserSteps from "@/components/tutorial/sign-up-user-steps";
 import { hasEnvVars } from "@/utils/supabase/check-env-vars";
 
 export default async function Index() {
-  const res_gapyeong = await fetch('https://raw.githubusercontent.com/kimch-man/yeosuerp/refs/heads/main/gapyeong.csv')
-  // const data_gapyeong = await res_gapyeong.json();
+  const res_gapyeong = await fetch('https://raw.githubusercontent.com/kimch-man/yeosuerp/refs/heads/main/json_files/gapyeong.json')
+  const data_gapyeong = await res_gapyeong.json();
 
-  console.log(res_gapyeong)
+  console.log(data_gapyeong)
 
   return (
     <>
